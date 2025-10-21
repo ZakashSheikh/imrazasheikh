@@ -15,4 +15,12 @@
 ### How to reach me
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3731180" style='border:none;'></iframe>
+## 📫 How to reach me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/muhammad-raza-sheikh-450106348/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sqarazasheikh@gmail.com)
+
+
+![TryHackMe]([https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png](https://tryhackme.com/p/MuhammadRazaSheikh))
+
+---
+
