@@ -12,15 +12,11 @@
 
 😎 Fun fact: When things don't go right, let them go!
 
-### How to reach me
-
 
 ## 📫 How to reach me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/muhammad-raza-sheikh-450106348/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/[YOUR_LINK](https://www.linkedin.com/in/muhammad-raza-sheikh-450106348/))
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sqarazasheikh@gmail.com)
 
 
-![TryHackMe]([https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png](https://tryhackme.com/p/MuhammadRazaSheikh))
-
----
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/https://tryhackme.com/p/MuhammadRazaSheikh)
 
