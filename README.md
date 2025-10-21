@@ -18,5 +18,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:sqarazasheikh@gmail.com)
 
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/https://tryhackme.com/p/MuhammadRazaSheikh)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MuhammadRazaSheikh)
 
