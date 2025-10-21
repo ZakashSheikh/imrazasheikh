@@ -20,4 +20,11 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/MuhammadRazaSheikh)
 
+<p align="center">
+  <a href="https://tryhackme.com/p/MuhammadRazaSheikh">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/MuhammadRazaSheikh.png" alt="TryHackMe Badge">
+  </a>
+</p>
+
+
 
